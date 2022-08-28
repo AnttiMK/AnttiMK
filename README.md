@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Kopo, also known as Antti in the real world. I'm a Finnish CSE student at University of Oulu, currently on my 1st year of studies.
+I'm Kopo, also known as Antti in the real world. I'm a Finnish CSE student at University of Oulu, currently on my 2nd year of studies.
 
 I'm mainly a Java / web developer, though I do have basic knowledge of Python and Kotlin, for example. Most of my projects and contributions revolve around Minecraft-related stuff, such as [Plan](https://github.com/plan-player-analytics/Plan), a versatile server analytics plugin.
 
