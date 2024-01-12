@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Antti, a 24-year-old CSE student from Finland. I'm currently on my 2nd year of CSE studies at University of Oulu, aiming to graduate as a M.Sc. in Technology.
+I'm Antti, a 24-year-old CSE student from Finland. I'm currently on my 3rd year of CSE studies at University of Oulu, aiming to graduate as a M.Sc. in Technology.
 
 My main strenghts in software development are definitely in Java and web development, about two to three years of experience in the two. I've also got minor knowledge of Python, C ([through an embedded systems course](https://github.com/AnttiMK/compsys-2022)) and Kotlin. Most of my projects and contributions revolve around Minecraft-related stuff, such as [Plan](https://github.com/plan-player-analytics/Plan), a versatile server analytics plugin.
 
